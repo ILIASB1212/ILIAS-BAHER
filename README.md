@@ -46,8 +46,10 @@ Welcome to my GitHub portfolio! I am an aspiring Machine Learning freelancer wit
 
 ## 🛠 Tools and Libraries
 
-- **Libraries**: Pandas, NumPy, Scikit-learn, NLTK, XGBoost, Matplotlib, Seaborn
+- **Libraries**: Pandas, NumPy, Scikit-learn, NLTK, XGBoost, Matplotlib, Seaborn, Tensorflow,Langchain,Pinecone,Chroma db
 - **Version Control**: Git, GitHub
 
 ---
+## Contact
 
+- **Email**: iliasbessiness123456@gmail.com
