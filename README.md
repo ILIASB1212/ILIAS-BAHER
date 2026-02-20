@@ -42,12 +42,18 @@ Welcome to my GitHub portfolio! I am an aspiring Machine Learning freelancer wit
 **Tech Stack**:  Linear Regression
 **Description**: Built a forecasting model to predict future sales for a retail product. Used linear regression to make predictions.
 
+### 6. [**AI Financial Advisor Stock Piker**](./AI_Agents_for_finance)
+**Problem**:stoke piking with a lot of informations .  
+**Tech Stack**: OpenAI Agent SDK , CrewAI , Docker, AWS , Serpapi
+**Description**: ai agents that contain 5 agents to help you chose stocks base on financial metrics.
+
 ---
 
 ## 🛠 Tools and Libraries
 
-- **Libraries**: Pandas, NumPy, Scikit-learn, NLTK, XGBoost, Matplotlib, Seaborn, Tensorflow,Langchain,Pinecone,Chroma db
+- **Libraries**: Pandas, NumPy, Scikit-learn, NLTK, XGBoost, Matplotlib, Seaborn, Tensorflow,Langchain,Pinecone,Chroma db,Langgraph,Openai,CrewAI
 - **Version Control**: Git, GitHub
+- **Cloud**: AWS
 
 ---
 ## Contact
